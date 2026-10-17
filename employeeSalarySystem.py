@@ -1,5 +1,5 @@
 #Employee Salary System
-
+#raise excep[tions when negative salry passed,-ve percetages passed etc
 class Employee:
 
     def __init__(self, name, salary):
